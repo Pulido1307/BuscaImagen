@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuscaImagen</string>
+    <string name="buscar">Buscar</string>
+    <string name="pokebusqueda">PokeBusqueda</string>
+    <string name="selecciona_un_pok_mon">Selecciona un pokémon</string>
+    <string name="todo">TODO</string>
+</resources>
