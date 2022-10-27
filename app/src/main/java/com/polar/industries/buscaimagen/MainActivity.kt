@@ -19,6 +19,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
+    //Array de nombres de imagenes
     private var pokedex: List<String> = listOf(
         "Absol", "Alakazam", "Ampharos", "Arcanine", "Aron", "Blastoise", "Buizel", "Bulbasaur", "Charizard", "Charmander", "Chicorita", "Cyndaquil", "Dragonite", "Electabuzz",
         "Gengar", "Golduck", "Growlithe", "Heracross", "Jolteon", "Kangaskhan", "Lapras", "Lucario", "Ludicolo", "Lugia", "Mankey", "Mewtwo", "Mudkip", "Ninetales", "Phanpy", "Pikachu",
